@@ -1,4 +1,6 @@
 # Movie Recommender System
+Name: Mukul Jakhar <br/>
+Roll no: 200606<br/>
 
 This system suggests the genre of movie that is suitable for a particular person based on the details of the person like age and gender. 
 <br/>
