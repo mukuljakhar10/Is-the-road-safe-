@@ -14,7 +14,7 @@ The logic behind the decision tree can be easily understood because it shows a t
 
 There are various algorithms in Machine learning, so choosing the best algorithm for the given dataset and problem is the main point to remember while creating a machine learning model.
 By observing the dataset manually, I noticed that there were groups of people in a particular range of age and gender that had similar interests in movies. 
-This observation convinced me to use the Decision Tree Classification Algorithm. Dataset was divided into training set and test set in 80:20 ratio.
+This observation convinced me to use the Decision Tree Classification Algorithm. Dataset was divided into training set and test set in 85:15 ratio.
 After making the model using this algorithm and fitting it with the training data, it was showing 80% accuracy on the test data which is a really good accuracy. 
 The results showed that this algorithm is best suited for creating the model on this dataset.<br/>
 
